@@ -1,5 +1,5 @@
 <div aling=center><h1 align="center"> Hello there. </h1>
-<h3 aling="center"> I'm Lucas Cunha, a developer from Brazil, just... like... trying my best... <h2>
+<h3 aling="center"> I'm Lucas Cunha, a developer from Brazil, just... like... trying my best... </h3>
 <h3 aling="center"> Graduated in 2021 as a systems analyst and developer from Unopar, and currently working maintaining the systems of the Municipio of Esteio running smootly. </h3>
 
 <div align="center" style="display: inline_block"><br>
